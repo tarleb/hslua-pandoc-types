@@ -1,1 +1,77 @@
 packages: pandoc-lua-marshal.cabal
+
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: lua
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: lua-arbitrary
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-core
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-marshalling
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-module-path
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-module-text
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-module-system
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-module-version
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-module-zip
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-objectorientation
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-packaging
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-classes
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: hslua-aeson
+source-repository-package
+  type: git
+  location: https://github.com/hslua/hslua.git
+  tag: 4ed57248c7f54007c2b74d48080b094e09770ee1
+  subdir: tasty-lua

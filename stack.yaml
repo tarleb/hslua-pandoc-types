@@ -1,5 +1,19 @@
 resolver: lts-22.36
 extra-deps:
   - hslua-list-1.1.4
+  - git: https://github.com/hslua/hslua.git
+    commit: 4ed57248c7f54007c2b74d48080b094e09770ee1
+    subdirs:
+      - hslua
+      - hslua-aeson
+      - hslua-classes
+      - hslua-core
+      - hslua-marshalling
+      - hslua-objectorientation
+      - hslua-packaging
+      - lua
+      - lua-arbitrary
+      - tasty-lua
+
 ghc-options:
   "$locals": -fhide-source-paths
